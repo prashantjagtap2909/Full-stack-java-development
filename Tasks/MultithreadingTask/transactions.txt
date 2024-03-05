@@ -1,0 +1,10 @@
+Online Transaction_UPI_PAYMENT   05-Mar-2024, 10:47:01 am (0106974072) - Remaining balance: 1300
+Online Transaction_UPI_PAYMENT   05-Mar-2024, 10:47:01 am (0117007146) - Remaining balance: 1100
+Online Transaction_UPI_PAYMENT   05-Mar-2024, 10:47:01 am (0482126023) - Remaining balance: 900
+Online Transaction_UPI_PAYMENT   05-Mar-2024, 10:47:01 am (5172011002) - Remaining balance: 700
+Online Transaction_UPI_PAYMENT   05-Mar-2024, 10:47:01 am (1389200103) - Remaining balance: 500
+BOB ATM at Shirur ST STAND 032   05-Mar-2024, 10:47:01 am (5851926364) - Remaining balance: 300
+BOB ATM at Shirur ST STAND 032   05-Mar-2024, 10:47:01 am (9459445853) - Remaining balance: 100
+BOB ATM at Shirur ST STAND 032   05-Mar-2024, 10:47:01 am (5982007255) - Remaining balance: 100
+BOB ATM at Shirur ST STAND 032   05-Mar-2024, 10:47:01 am (2181272716) - Remaining balance: 100
+BOB ATM at Shirur ST STAND 032   05-Mar-2024, 10:47:01 am (6253806056) - Remaining balance: 100
